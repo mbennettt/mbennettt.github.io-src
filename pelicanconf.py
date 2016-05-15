@@ -3,12 +3,12 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Michael Bennett'
-SITENAME = u'GDS Relections'
+SITENAME = u'GDS Relfections'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = u'en'
 
